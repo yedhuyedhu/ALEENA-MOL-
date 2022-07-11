@@ -1,4 +1,4 @@
-/* Copyright (C) 2020 Yusuf Usta.
+8/* Copyright (C) 2020 Yusuf Usta.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
@@ -137,7 +137,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ ❤️MAALUTTY💙 working aan😎!')
+            chalk.green.bold('✅ ❤️ALEENA mol 💙 working aan😎!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -162,7 +162,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*❤️MAALUTTY💙 BOT ELLAM SETTAYI😇*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*❤️ALEENA MOL💙 BOT ELLAM SETTAYI😇*', MessageType.text);
                 }
             }
             else {
@@ -184,7 +184,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*❤️MAALUTTY💙 BOT ELLAM SETTAYI😇*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*❤️ALEENA MOL 💙 BOT ELLAM SETTAYI😇*', MessageType.text);
                 }
 
             }
@@ -233,7 +233,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*❤️MAALUTTY💙 BOT ELLAM SETTAYI😇*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*❤️ALEENA MOL💙 BOT ELLAM SETTAYI😇*', MessageType.text);
                 }
             }
         }
